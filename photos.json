@@ -1,0 +1,32 @@
+{
+ "flafla": {
+  "肩こり": ["flafla_11.jpg","flafla_13.jpg","flafla_01.jpg"],
+  "腰痛": ["flafla_10.jpg","flafla_16.jpg","flafla_17.jpg","flafla_12.jpg"],
+  "自律神経・睡眠": ["flafla_08.jpg","flafla_09.jpg","flafla_14.jpg","flafla_15.jpg"],
+  "ストレス・疲労": ["flafla_02.jpg","flafla_04.jpg","flafla_15.jpg"],
+  "人気メニュー紹介": ["flafla_02.jpg","flafla_04.jpg","flafla_08.jpg"],
+  "個室・設備・アクセス": ["flafla_07.jpg","flafla_18.jpg","flafla_06.jpg","flafla_05.jpg"],
+  "スタッフ・カウンセリング": ["flafla_03.jpg"],
+  "季節の話題": ["flafla_18.jpg","flafla_05.jpg","flafla_19.jpg"]
+ },
+ "nagi": {
+  "雨の日・待ち時間・足湯": ["nagi_01.jpg","nagi_13.jpg","nagi_07.jpg"],
+  "海外からのお客様": ["nagi_18.jpg"],
+  "アクセス・店の探し方": ["nagi_08.jpg","nagi_09.jpg"],
+  "和の雰囲気・入口": ["nagi_11.jpg","nagi_12.jpg"],
+  "施術・個室": ["nagi_04.jpg","nagi_05.jpg","nagi_14.jpg","nagi_15.jpg","nagi_16.jpg","nagi_17.jpg"],
+  "オイルマッサージ": ["nagi_10.jpg"],
+  "香り・落ち着いた空間": ["nagi_06.jpg","nagi_07.jpg"],
+  "スタッフ・接客": ["nagi_02.jpg","nagi_03.jpg"]
+ },
+ "arum": {
+  "肩こり・腰痛": ["arum_18.jpg","arum_04.jpg"],
+  "自律神経・睡眠・ヘッドスパ": ["arum_16.jpg","arum_05.jpg","arum_17.jpg"],
+  "オイルマッサージ・オールハンド": ["arum_04.jpg","arum_14.jpg"],
+  "カウンセリング・スタッフ": ["arum_01.jpg","arum_02.jpg"],
+  "アロマ・香り": ["arum_08.jpg","arum_10.jpg","arum_03.jpg"],
+  "完全個室・設備": ["arum_11.jpg","arum_12.jpg","arum_09.jpg","arum_06.jpg","arum_07.jpg"],
+  "ウェルカムドリンク": ["arum_15.jpg"],
+  "アクセス・店の目印": ["arum_13.jpg"]
+ }
+}
